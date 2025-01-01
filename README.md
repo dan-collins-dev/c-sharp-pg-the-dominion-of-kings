@@ -5,7 +5,7 @@ Challenge from [The C# Player's Guide](https://csharpplayersguide.com/) by RB Wh
 Note: Level 7 Challenge
 
 ### The Dominion of Kings: 100xp
-- [ ] Completed
+- [X] Completed
 
 #### Objectives
 - Create a program that lets the user enter how many provinces, duchies, and estates they have.
